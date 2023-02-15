@@ -1,0 +1,71 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\..\\desweb"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\proyecto_mydentis"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\gustavo221810743"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\formulario"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\reactnoveno\\gustavo221810743"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\ticket"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\ticketjs"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\ejemplo\\ejemplo"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\ticket-php1\\ticket-php1"
+		},
+		{
+			"path": "..\\..\\..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\backendok"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\modulo-de-control"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\backend"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\curso"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\fetch-crud"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\wamp\\www\\practicaCRUD"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\calcular_edad"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\practicajs"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\AWS"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\Api"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\APPWEBP"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web",
+		"git.ignoreLimitWarning": true
+	}
+}
